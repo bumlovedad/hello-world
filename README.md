@@ -1,2 +1,4 @@
 # hello-world
-Just beginner start Git
+
+Hi everyone.
+I love coding and i love you!
